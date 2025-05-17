@@ -1,1 +1,1 @@
-My python repo includes mainly of my learning in datascience and working on real-world projects.
+My python repo includes mainly of my learning in datascience(most of the plots and projects 1-8) and working on real-world projects(Mendy, Geocivic guardian, Webscraping, Restaurant Management,tic-tac-toe, Calculator) and one of my networks project(ARP_spoofer)
